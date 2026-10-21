@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <a href="https://www.krawkdev.com">krawkdev.com</a>
+  <a href="https://www.krawkpeterson.com">krawkpeterson.com</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/krawkpeterson/ZIP-Code-World-Generator">Ashen County</a>
   &nbsp;·&nbsp;
