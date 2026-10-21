@@ -13,8 +13,6 @@
   <a href="https://github.com/krawkpeterson/GoblinShooter">KRAWK source</a>
 </p>
 
-Real-time games. Procedural worlds. Finished to a tolerance you can feel.
-
 ## Selected work
 
 <table>
