@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.jpg"/>
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.jpg"/>
-    <img src="./assets/banner-dark.jpg" alt="Seth Peterson. Worlds, systems, and real-time work." width="100%"/>
+    <img src="./assets/banner-dark.jpg" alt="Seth Peterson. Real-time games. Procedural worlds." width="100%"/>
   </picture>
 </a>
 
@@ -13,7 +13,7 @@
   <a href="https://github.com/krawkpeterson/GoblinShooter">KRAWK source</a>
 </p>
 
-I build places people can walk into, and the machinery that holds them up. Procedural worlds, browser-native games, and the systems underneath.
+Real-time games. Procedural worlds. Finished to a tolerance you can feel.
 
 ## Selected work
 
