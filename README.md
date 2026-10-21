@@ -1,4 +1,4 @@
-<a href="https://www.krawkdev.com">
+<a href="https://www.krawkpeterson.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.jpg"/>
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.jpg"/>
@@ -59,4 +59,4 @@
 
 ## Get in touch
 
-Building something with real terrain, browsers, or a world that has to regenerate — start at [krawkdev.com](https://www.krawkdev.com).
+Building something with real terrain, browsers, or a world that has to regenerate — start at [krawkpeterson.com](https://www.krawkpeterson.com).
