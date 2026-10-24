@@ -9,15 +9,15 @@
 <p align="center">
   <a href="https://www.krawkpeterson.com">krawkpeterson.com</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/krawkpeterson/ZIP-Code-World-Generator">Ashen County</a>
-  &nbsp;·&nbsp;
   <a href="https://github.com/krawkpeterson/SurvivalHorror">Blackbriar</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/krawkpeterson/ZIP-Code-World-Generator">Ashen County</a>
   &nbsp;·&nbsp;
   <a href="https://krawkpeterson.github.io/GoblinShooter/">Play KRAWK</a>
 </p>
 
 <p align="center">
-  <sub>Real-time games · Procedural worlds · Finished to a tolerance you can feel</sub>
+  <sub>Real-time games · Procedural worlds</sub>
 </p>
 
 <br/>
